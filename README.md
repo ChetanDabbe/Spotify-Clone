@@ -1,2 +1,2 @@
 # Spotify-Clone
-Spotify clone 
+Spotify clone using ReactJs
